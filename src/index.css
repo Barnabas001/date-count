@@ -4,4 +4,9 @@
   justify-content: center;
   text-align: center;
   background-color: orange;
+  padding: 20px;
+}
+
+.inputSection {
+  margin-top: 15px;
 }
